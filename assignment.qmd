@@ -134,9 +134,11 @@ precincts_with_zero_votes <- precinct_results %>%
 
 ```
 
-How many precincts are there, and which county has the most? *Put answer here*
+How many precincts are there, and which county has the most? total_precincts <- sum(precinct_counts$n) 
 
-What else would you need to know about these precincts to know whether this might be worth a story? *Put answer here*
+
+What else would you need to know about these precincts to know whether this might be worth a story? *Demographic Information, Historical Data, Voter Turnout, and Geographic Considerations"
+
 
 ### Q3.
 
